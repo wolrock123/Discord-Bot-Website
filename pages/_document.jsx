@@ -11,14 +11,14 @@ class MyDocument extends Document {
           <meta name="googlebot" content="index,follow" />
           <meta
             name="description"
-            content="How about moderating your own server with Wolrock bot? Create your own free world and create your own playlist, experience this pleasure with the best sounds."
+            content="How about moderating your own server with Beat bot? Create your own free world and create your own playlist, experience this pleasure with the best sounds."
           />
           <meta name="twitter:card" content="summary" />
-          <meta name="twitter:site" content="@WolrockBot" />
-          <meta name="twitter:creator" content="@WolrockBot" />
-          <meta property="og:url" content="https://Wolrockbot.vercel.app" />
+          <meta name="twitter:site" content="@BeatBot" />
+          <meta name="twitter:creator" content="@BeatBot" />
+          <meta property="og:url" content="https://Beatbot.vercel.app" />
           <meta property="og:type" content="website" />
-          <meta property="og:title" content="Wolrock Bot" />
+          <meta property="og:title" content="Beat Bot" />
           <link
             rel="icon"
             href="/img/logo2.png"
@@ -28,15 +28,15 @@ class MyDocument extends Document {
             property="og:description"
             content="How about moderating your own server with Wolrock bot? Create your own free world and create your own playlist, experience this pleasure with the best sounds."
           />
-          <meta property="og:image" content="https://cdn.discordapp.com/attachments/1012301667171053608/1020798431121391707/w.png" />
-          <meta property="og:image:alt" content="Wolrock Bot" />
+          <meta property="og:image" content="https://cdn.discordapp.com/attachments/1012301667171053608/1022495839916134422/bsa.png" />
+          <meta property="og:image:alt" content="Beat Bot" />
           <meta property="og:locale" content="en_GB" />
           <meta
             property="og:site_name"
-            content="Wolrock Bot"
+            content="Beat Bot"
           />
           <meta name="theme-color" content="#6108dd" />
-          <link rel="icon" href="https://cdn.discordapp.com/attachments/1012301667171053608/1020798431121391707/w.png" type="image/x-icon" />
+          <link rel="icon" href="https://cdn.discordapp.com/attachments/1012301667171053608/1022495839916134422/bsa.png" type="image/x-icon" />
           <link
             href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap"
             rel="stylesheet"
