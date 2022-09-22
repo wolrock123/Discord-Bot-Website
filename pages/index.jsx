@@ -10,26 +10,26 @@ export default function Index() {
       <img width="500" src="/img/bck.png" />
       </div>
         <p className="animateHeader text-4xl font-extrabold text-center text-white">
-          Wolrock Bot
+         Beat Bot
         </p>
         <p className="animateHeader text-white text-opacity-50 text-center mt-5">
-       How about moderating your own server with Wolrock bot? Create your own free world and create your own playlist, experience this pleasure with the best sounds. 
+       How about moderating your own server with Beat bot? Create your own free world and create your own playlist, experience this pleasure with the best sounds. 
 	  </p>
         <div className="animateHeader mt-10 flex flex-wrap items-center justify-center gap-x-4">
   
-            <Link href={"https://bit.ly/3PHDjyC"}>
+            <Link href={"https://discord.com/api/oauth2/authorize?client_id=988119978798641185&permissions=8&scope=bot%20applications.commands"}>
               <a
                 className={
                   "flex items-center px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " 
                 }
               >
-          Invite Wolrock
+          Invite Beat
               </a>
             </Link>
   <div className="py-10"></div>
   <Link href={"https://bit.ly/3LYzaDe"}>
   <a className={" px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
-Vote Wolrock</a>
+Vote Beat</a>
   </Link>
         </div>
 
@@ -45,10 +45,10 @@ Vote Wolrock</a>
 
       <div className="grid grid-cols-1 lg:grid-cols-12 gap-y-12 lg:gap-y-0 lg:gap-x-12 py-24">
           <div className="col-span-4">
-            <p className="text-white text-4xl font-bold" dangerouslySetInnerHTML={{ __html:"Wolrock Bot" }} />
+            <p className="text-white text-4xl font-bold" dangerouslySetInnerHTML={{ __html:"Beat Bot" }} />
             <p className="text-white text-md font-medium text-gray-500/75" dangerouslySetInnerHTML={{ __html: "How about creating the best environment to relax yourself with your own emotions?" }}/>
-            <a href="https://bit.ly/3PHDjyC" className={"mt-10 flex items-center px-4 justify-center gap-x-2 shadow-lg shadow-amber-600/20 cursor-pointer rounded-xl py-4 font-medium bg-gradient-to-r from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white"}>
-              <i className="fab fa-discord mr-2" />Invite Wolrock
+            <a href="https://discord.com/api/oauth2/authorize?client_id=988119978798641185&permissions=8&scope=bot%20applications.commands" className={"mt-10 flex items-center px-4 justify-center gap-x-2 shadow-lg shadow-amber-600/20 cursor-pointer rounded-xl py-4 font-medium bg-gradient-to-r from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white"}>
+              <i className="fab fa-discord mr-2" />Invite Beat
             </a>
           </div>
 
@@ -57,7 +57,7 @@ Vote Wolrock</a>
               <div>
                 <div className="text-white">
                   <p className="text-xl font-semibold mt-5"><i className={`fa fa-cogs text-2xl text-amber-500`} /> Optimization</p>
-                  <p className="text-gray-500 line-clamp-4">With fast and customizable settings specific to your server, Wolrock gives you a musical pleasure to the fullest.</p>
+                  <p className="text-gray-500 line-clamp-4">With fast and customizable settings specific to your server, Beat gives you a musical pleasure to the fullest.</p>
                 </div>
               </div>
               <div>
@@ -88,7 +88,7 @@ Vote Wolrock</a>
                 <div className="lg:mx-4 lg:p-8 py-4 lg:py-16 flex items-center justify-center flex-col text-center w-full lg:w-auto lg:text-left lg:flex-none">
                   <img src="https://cdn.discordapp.com/attachments/1012301667171053608/1020798431121391707/w.png"  width="256" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
                   <p className="text-3xl text-white font-semibold">Best Your Bot</p>
-                  <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Are you ready to throw the best parties with Wolrock, the best and most up-to-date bot?</p>
+                  <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Are you ready to throw the best parties with Beat, the best and most up-to-date bot?</p>
                 </div>
                 <img src="https://cdn.discordapp.com/attachments/1012301667171053608/1020798431121391707/w.png" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
               </>
