@@ -55,7 +55,7 @@ export default function Footer() {
                                 </Link>
                             </div>
                             <div>
-                                <a href="https://discord.gg/ZcDprCrFTn" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
+                                <a href="https://discord.gg/tSztU4sP48" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
                                     Support Server
                                 </a>
                             </div>
@@ -117,7 +117,7 @@ export default function Footer() {
                                 </p>
                         </div>
                         <p className="text-white text-center sm:text-right text-opacity-50">
-                            {"Astra Bot ❤️"}
+                            {"Wolrock Bot ❤️"}
                         </p>
                     </div>
                 </div>
