@@ -13,8 +13,8 @@ const MobileNavbar = ({ open, setOpen, NavItems }) => {
 
                 <div className="flex justify-between border-b border-white/20 items-center px-5 py-4">
                     <div className="flex items-center">
-                        <img width="32" className="rounded-full icon-glow" src="https://cdn.discordapp.com/attachments/1012301667171053608/1020798431121391707/w.png" />
-                        <p className=" font-extrabold ml-1 text-2xl">Wolrock Bot</p>
+                        <img width="32" className="rounded-full icon-glow" src="https://cdn.discordapp.com/attachments/1012301667171053608/1022495839916134422/bsa.png" />
+                        <p className=" font-extrabold ml-1 text-2xl">Beat Bot</p>
                     </div>
                     <button onClick={() => setOpen(!open)}><i className="cursor-pointer fa fa-times text-xl mr-2" /></button>
                 </div>
@@ -83,7 +83,7 @@ const Header = ({ $, NavItems }) => {
                                 width="48" height="48"
                             />
                             <p className="invisible md:visible text-xl text-white font-semibold">
-                              <a href="/"><span className="text-amber-400">Wolrock</span>Bot</a>
+                              <a href="/"><span className="text-amber-400">Beat</span>Bot</a>
                             </p>
                         </div>
                         <ul className="hidden lg:flex items-center space-x-4">
@@ -166,7 +166,7 @@ const Header = ({ $, NavItems }) => {
                                 </Menu.Items>
                             </Transition>
                         </Menu>
-                        <Link href="https://bit.ly/3PHDjyC">
+                        <Link href="https://discord.com/api/oauth2/authorize?client_id=988119978798641185&permissions=8&scope=applications.commands%20bot">
                             <a className="w-auto flex items-center justify-center shadow-lg gap-x-2 shadow-amber-600/20 rounded-xl py-2.5 font-medium px-7 bg-gradient-to-tl from-amber-500 to-amber-700 text-white  hover:opacity-80 transition duration-200">
                                Invite
                             </a>
